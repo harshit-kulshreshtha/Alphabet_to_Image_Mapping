@@ -1,0 +1,224 @@
+table{
+	background-color:grey;
+	border:1px solid black;
+	margin:90px;
+	width:1000px;
+	height:500px;
+}
+
+th{
+	
+	color:brown;
+	font-size:40px;
+}
+img{
+	border:2px solid black;
+}
+#apple{
+        position: fixed;
+        right:10;
+        top:100;
+        display: none;
+        width:200px;
+        height:180px;
+      }
+#bat{
+        position: fixed;
+        right:10;
+        top:100;
+        display: none;
+        width:200px;
+        height:180px;
+      }
+#cat{
+        position: fixed;
+        right:10;
+        top:100;
+        display: none;
+        width:200px;
+        height:180px;
+      }        
+#dog{
+        position: fixed;
+        right:10;
+        top:100;
+        display: none;
+        width:200px;
+        height:180px;
+      }
+#ele{
+        position: fixed;
+        right:10;
+        top:100;
+        display: none;
+        width:200px;
+        height:180px;
+      }
+#flower{
+        position: fixed;
+        right:10;
+        top:100;
+        display: none;
+        width:200px;
+        height:180px;
+      }
+#gun{
+        position: fixed;
+        right:10;
+        top:100;
+        display: none;
+        width:200px;
+        height:180px;
+      }
+#horse{
+        position: fixed;
+        right:10;
+        top:100;
+        display: none;
+        width:200px;
+        height:180px;
+      }
+#ice{
+        position: fixed;
+        right:10;
+        top:100;
+        display: none;
+        width:200px;
+        height:180px;
+      }          
+#joker{
+        position: fixed;
+        right:10;
+        top:100;
+        display: none;
+        width:200px;
+        height:180px;
+      }
+#kite{
+        position: fixed;
+        right:10;
+        top:100;
+        display: none;
+        width:200px;
+        height:180px;
+      }
+#lemon{
+        position: fixed;
+        right:10;
+        top:100;
+        display: none;
+        width:200px;
+        height:180px;
+      }        
+#mango{
+        position: fixed;
+        right:10;
+        top:100;
+        display: none;
+        width:200px;
+        height:180px;
+      }
+#nest{
+        position: fixed;
+        right:10;
+        top:100;
+        display: none;
+        width:200px;
+        height:180px;
+      }
+#orange{
+        position: fixed;
+        right:10;
+        top:100;
+        display: none;
+        width:200px;
+        height:180px;
+      }
+#parrot{
+        position: fixed;
+        right:10;
+        top:100;
+        display: none;
+        width:200px;
+        height:180px;
+      }
+#queen{
+        position: fixed;
+        right:10;
+        top:100;
+        display: none;
+        width:200px;
+        height:180px;
+      }
+#rabbit{
+        position: fixed;
+        right:10;
+        top:100;
+        display: none;
+        width:200px;
+        height:180px;
+      }
+#sun{
+        position: fixed;
+        right:10;
+        top:100;
+        display: none;
+        width:200px;
+        height:180px;
+      }
+#train{
+        position: fixed;
+        right:10;
+        top:100;
+        display: none;
+        width:200px;
+        height:180px;
+      }        
+#umbrella{
+        position: fixed;
+        right:10;
+        top:100;
+        display: none;
+        width:200px;
+        height:180px;
+      }
+#van{
+        position: fixed;
+        right:10;
+        top:100;
+        display: none;
+        width:200px;
+        height:180px;
+      }
+#watch{
+        position: fixed;
+        right:10;
+        top:100;
+        display: none;
+        width:200px;
+        height:180px;
+      }
+#xray{
+        position: fixed;
+        right:10;
+        top:100;
+        display: none;
+        width:200px;
+        height:180px;
+      }
+#yak{
+        position: fixed;
+        right:10;
+        top:100;
+        display: none;
+        width:200px;
+        height:180px;
+      }
+#zebra{
+        position: fixed;
+        right:10;
+        top:100;
+        display: none;
+        width:200px;
+        height:180px;
+      } 
